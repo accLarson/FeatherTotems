@@ -1,0 +1,6 @@
+#FeatherTotems
+messages:
+  totem-pop: "<white>• <#e2b492><resurrected> <#b98863>popped a Totem!"
+  totem-pop-has-name: "<white>• <#e2b492><resurrected> <#b98863>popped a totem named <#e2b492><totem><#b98863>!"
+  totem-pop-murder: "<white>• <#e2b492><resurrected> <#b98863>popped a totem while fighting <#e2b492><killer><#b98863>!"
+  totem-pop-has-name-murder: "<white>• <#e2b492><resurrected> <#b98863>popped a totem named <#e2b492><totem><#b98863>, while fighting <#e2b492><killer><#b98863>!"

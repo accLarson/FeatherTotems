@@ -1,0 +1,6 @@
+name: FeatherTotems
+version: '${project.version}'
+main: com.zerek.feathertotems.FeatherTotems
+api-version: 1.19
+authors: [ Zerek ]
+description: Configurations for totem drops and totem announcements
